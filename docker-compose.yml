@@ -7,7 +7,7 @@ services:
    - "dev_home:/root"
    - ".:/data"
   working_dir: /data/public
-  command: ["npm", "i"]
+  command: ["npm", "ci"]
  
  mapserver:
   image: golang:1.16.0
