@@ -3,7 +3,7 @@ module mapserver
 require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/lib/pq v1.10.2
-	github.com/mattn/go-sqlite3 v1.14.7
+	github.com/mattn/go-sqlite3 v1.14.8
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/prometheus/client_golang v1.11.0
 	github.com/sirupsen/logrus v1.8.1
